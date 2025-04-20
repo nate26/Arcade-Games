@@ -1,0 +1,23 @@
+{
+    "name": "snake",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@tailwindcss/vite": "^4.1.1",
+        "rxjs": "^7.8.2",
+        "tailwindcss": "^4.1.1"
+    },
+    "devDependencies": {
+        "typescript": "^5.8.2",
+        "vite": "^6.2.4"
+    }
+}
